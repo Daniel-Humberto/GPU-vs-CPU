@@ -7,9 +7,7 @@
 
 ## GPU vs CPU Performance Analyzer 🚀
 
-Una aplicación de análisis de rendimiento que compara el poder computacional entre GPU y CPU utilizando operaciones de multiplicación de matrices. Esta herramienta proporciona métricas detalladas de rendimiento, visualizaciones en tiempo real y análisis comparativo para evaluar la eficiencia de ambos procesadores.
-
-
+Una aplicación de análisis de rendimiento que compara el poder computacional entre GPU y CPU utilizando operaciones de multiplicación de matrices. Esta herramienta proporciona métricas detalladas de rendimiento, visualizaciones en tiempo real y análisis comparativo para evaluar la eficiencia de ambos procesadores. La herramienta proporciona métricas detalladas, visualizaciones en tiempo real y análisis comparativo para evaluar la eficiencia de ambos procesadores. Desarrollar este tipo de experimentos forma parte de mi formación profesional y también de un interés personal por comprender a fondo el impacto que tiene la computación acelerada en tareas analíticas complejas.
 
 ## ✨ Características Principales
 
